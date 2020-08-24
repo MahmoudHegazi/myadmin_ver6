@@ -7,3 +7,5 @@ Last Version, This is more than bigger app not completed need 2 working days sta
 
 # AJAX_CRUD_JQuery_PHP
 <img src="ajax11.PNG">
+
+# after fixng the aside total dynamic not static active :D but with php not JS
